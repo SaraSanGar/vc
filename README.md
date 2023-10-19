@@ -1,6 +1,6 @@
-##**Miembros del grupo:** Sara Sánchez García y Saúl Santana Santana
+**Miembros del grupo:** Sara Sánchez García y Saúl Santana Santana
 
-##**Ficheros a ejecutar:**
+**Ficheros a ejecutar:**
 
 **[Tarea 1 - VC.ipynb]**: Ejecutar este nootebook mostrará los resultados del trabajo sobre la práctica 1 de la asignatura donde para comprender de forma aplicada la representación de imágenes de grises y color, su modificación, visualización y tratamiento básico. Al finalizar la práctica, debes ser capaz de crear una imagen de un determinado tamaño, acceder a los valores asociados a un determinado píxel, modificar dichos valores, dibujar primitivas gráficas básicas sobre una imagen, abrir una imagen de disco, así como acceder a los fotogramas de un vídeo o captura de cámara. Para todo ello, se completan las distintas tareas propuestas.
 
@@ -12,5 +12,5 @@ En una primera tarea se asume que todos los objetos de interés en la imagen son
 
 Para la segunda tarea, se proporcionan tres subimágenes de tres clases de microplásticos recogidos en playas canarias. La tarea propuesta consiste en determinar patrones en sus características geométricas que puedan permitir su clasificación en dichas imágenes y otras. Como fuente de partida, se proporciona enlace al trabajo SMACC: A System for Microplastics Automatic Counting and Classification en el que se adoptan algunas propiedades geométricas para dicho fin.
 
-##**Bibliogrfía:** Guión de prácticas del profesor
+**Bibliogrfía:** Guión de prácticas del profesor
 
