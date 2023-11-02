@@ -7,5 +7,6 @@ Para poder correr el código es necesario todos los archivos existentes en esta 
 
 Para probarlo se debe ejecutar el fichero "VC_P4_DLIB.ipynb"
 
-#Gif
+Gif
+======================
 ![](https://github.com/SaraSanGar/vc/blob/main/Práctica%204%20-%20VC/Gift%20-%20Anonymous.gif)
