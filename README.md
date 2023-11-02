@@ -12,10 +12,11 @@ En una primera tarea se asume que todos los objetos de interés en la imagen son
 
 Para la segunda tarea, se proporcionan tres subimágenes de tres clases de microplásticos recogidos en playas canarias. La tarea propuesta consiste en determinar patrones en sus características geométricas que puedan permitir su clasificación en dichas imágenes y otras. Como fuente de partida, se proporciona enlace al trabajo SMACC: A System for Microplastics Automatic Counting and Classification en el que se adoptan algunas propiedades geométricas para dicho fin.
 
-<a href="https://github.com/SaraSanGar/vc/tree/main/Práctica%204%20-%20VC#práctica-4---filtro"><b>[Práctica 4 - VC]:</b> </a> "VC_P4_DLIB.ipynb" 
+<a href="https://github.com/SaraSanGar/vc/tree/main/Práctica%204%20-%20VC#práctica-4---filtro"><b>[Práctica 4 - VC]:</b> </a> Filtro Anonymous
 
-Se debe ejecutar el fichero  La práctica consiste en un filtro para la webcam el cual te pone en la cara la máscara de anonymous.
+Se debe ejecutar el fichero  "VC_P4_DLIB.ipynb". 
 
+La práctica consiste en un filtro para la webcam el cual te pone en la cara la máscara de anonymous.
 Para poder correr el código es necesario todos los archivos existentes en esta carpeta, además, sería necesario tener los ficheros "shape_predictor_68_face_landmarks.dat" y "shape_predictor_5_face_landmarks.dat" pero ya que estos fichero son muy grandes para ser subidos a Github no se han podido añadir al repositorio.
 
 **Bibliogrfía:** Guión de prácticas del profesor
