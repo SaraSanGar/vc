@@ -33,6 +33,7 @@ Para poder correr el código es necesario todos los archivos existentes en esta 
 
 ![](https://github.com/SaraSanGar/vc/blob/main/Práctica%204%20-%20VC/Gift%20-%20Anonymous.gif)
 
+
 <a href="https://github.com/SaraSanGar/vc/tree/main/Práctica%205%20-%20VC"><b>[Práctica 5 - VC]:</b></a> Detector de matriculas
 
 Se debe ejecutar el fichero  "VC_P5.ipynb". 
