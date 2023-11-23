@@ -33,6 +33,15 @@ Para poder correr el código es necesario todos los archivos existentes en esta 
 
 ![](https://github.com/SaraSanGar/vc/blob/main/Práctica%204%20-%20VC/Gift%20-%20Anonymous.gif)
 
+<a href="https://github.com/SaraSanGar/vc/tree/main/Práctica%205%20-%20VC"><b>[Práctica 5 - VC]:</b></a> Detector de matriculas
+
+Se debe ejecutar el fichero  "VC_P5.ipynb". 
+
+Los dos primeros bloques de códigos son los correspondientes a las importaciones y preparación previa al código.
+
+Luego, tenemos el detector utilizando el modelo Yolo. Utilizamos la webcam para detectar las matrículas de los coches. El funcionamiento de este detector se basa en primero detectar los coches de la imagen con yolo, a continuación, calculamos la mitad inferior del coche y ese fragmento de frame es el que le pasamos al OSR, el cual nos detectará el texto. Por ultimo, normalizamos el texto utlilizando una expresión regular y mostramos por pantalla la matricula detectada.
+El cuarto bloque de código corresponde con un ejemplo de como usar el OSR sobre una imagen estática.
+Por ultimo,  tenemos el bloque en el que utilizamos un modelo entrenado por nosotros. 
 
 **Bibliogrfía:** Guión de prácticas del profesor
 
