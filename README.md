@@ -62,5 +62,11 @@ La imagen va a poner la imagen más rosa a mayor número de mujeres haya en la f
 
 Los últimos bloques son diferentes imagenes para apreciar el cambio de comportamiento dependiendo de lo que ocurre en la imagen.
 
-**Bibliogrfía:** Guión de prácticas del profesor
+<a href="https://github.com/SaraSanGar/vc/tree/main/Proyecto%20final%20-%20Monitorización%20de%20stops"><b>[Proyecto final - VC]:</b></a> Monitorización de Stops
+
+La finalidad de esta propuesta es utilizar videos que muestran situaciones de stops, observando detenidamente el comportamiento de los vehículos involucrados para determinar si ejecutan correctamente dichas paradas. Esta herramienta se presenta como una solución ideal para monitorizar el cumplimiento de las normas de tránsito.
+
+![]([https://github.com/SaraSanGar/vc/blob/main/Práctica%204%20-%20VC/Gift%20-%20Anonymous.gif](https://github.com/SaraSanGar/vc/blob/main/Proyecto%20final%20-%20Monitorización%20de%20stops/Caratula%20proyecto.png)https://github.com/SaraSanGar/vc/blob/main/Proyecto%20final%20-%20Monitorización%20de%20stops/Caratula%20proyecto.png
+
+**Bibliografía:** Guión de prácticas del profesor
 
